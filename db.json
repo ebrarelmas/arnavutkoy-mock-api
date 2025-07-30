@@ -2,19 +2,33 @@
   "news": [
     {
       "id": 1,
-      "title": "Arnavutköy'de Yeni Park Açıldı",
+      "title": "AArnavutköy İlk Üniversitesine Kavuşuyor",
       "summary": "Arnavutköy Belediyesi, çocuklar için yeni bir park hizmete açtı.",
-      "content": "Arnavutköy Belediyesi tarafından yapılan açıklamaya göre...",
+      "content": "Sağlık Bilimleri Üniversitesi ile Darülaceze Başkanlığı arasında yapılan iş birliğiyle Arnavutköy’de Sağlık Hizmetleri Meslek Yüksekokulu kuruluyor. 2025-2026 eğitim öğretim yılında öğrenci kabul edecek yüksekokul, ilçeye akademik ve sosyal anlamda değer katacak.
+
+Arnavutköy, ilk kez bir üniversiteye ev sahipliği yapmaya hazırlanıyor. Sağlık Bilimleri Üniversitesi ile Darülaceze Başkanlığı arasında hayata geçirilen iş birliğiyle, Arnavutköy Darülaceze Sosyal Yaşam Şehri içerisinde Sağlık Hizmetleri Meslek Yüksekokulu kurulması kararlaştırıldı.
+
+2025-2026 eğitim öğretim yılında açılması planlanan yüksekokulda, Darülaceze’nin bakım modeli esas alınarak uygulamalı eğitim verilecek. Yaşlı Bakımı, Hasta Bakımı ve Fizyoterapi programlarında öğrenci kabul edilecek olan yüksekokul, sağlık alanında nitelikli insan kaynağı yetiştirilmesine katkı sağlayacak.
+
+Darülaceze İdare Meclisi Üyesi olan Başkan Mustafa Candaroğlu da süreci yakından takip ediyor. Candaroğlu, ilçeye kazandırılan bu yükseköğretim kurumunun Arnavutköy’ün vizyonuna katkı sunacağını belirterek,“İlçemize kazandırılan bu yüksekokul, sadece bir eğitim kurumu değil; aynı zamanda Arnavutköy’ün geleceğine yapılan stratejik bir yatırımdır. Gençlerimiz burada nitelikli bir eğitim alırken, aynı zamanda bir mesleğe adım atma fırsatı da yakalayacak. Sağlık Bilimleri Üniversitesi’ne ve emeği geçen tüm paydaşlara şükranlarımı sunuyorum.”dedi.
+
+Arnavutköy Sosyal Yaşam Şehri içerisinde yer alacak olan Sağlık Hizmetleri Meslek Yüksekokulu, ilçenin hem eğitim hem de sağlık alanındaki gelişimine büyük katkı sunacak. Bu yatırım, Arnavutköy’ü sağlık temalı bir eğitim merkezi haline getirme yolunda atılmış önemli bir adım olarak olacak. ",
       "imageUrl": "https://www.arnavutkoy.bel.tr/thumb.php?p=uploads/haberler/cdc4f777db92e06.jpg&w=500",
-      "date": "2025-07-25"
+      "date": "2025-07-26"
     },
     {
       "id": 2,
-      "title": "Yaz Etkinlikleri Başladı",
-      "summary": "Arnavutköy'de düzenlenen yaz etkinlikleri büyük ilgi gördü.",
-      "content": "Her yaş grubuna yönelik etkinlikler belediye meydanında başladı...",
-      "imageUrl": "https://www.arnavutkoy.bel.tr/images/news2.jpg",
-      "date": "2025-07-20"
+      "title": "AYEM ile Gönüllere Dokunan Hizmet",
+      "summary": "Arnavutköy Belediyesi Yaşlı ve Engelli Merkezi (AYEM), büyüklerimizin hayatına dokunan hizmetleriyle çınarlarımıza ihtiyaç duydukları her anda destek olmaya devam ediyor.",
+      "content": "Arnavutköy Belediyesi, sosyal hizmet anlayışını yaş almış büyüklerimizin yaşamını kolaylaştıracak çalışmalarla sürdürüyor. Yaşlı ve Engelli Merkezi (AYEM) aracılığıyla yürütülen destek hizmetleri, ilçenin çınarlarına yalnız olmadıklarını hissettiriyor.
+
+Kişisel bakım, sağlık takibi, temizlik, psikososyal destek ve rehberlik gibi birçok alanda sağlanan hizmetler, uzman ekipler tarafından titizlikle yürütülüyor. İhtiyaçlar doğrultusunda planlanan bu çalışmalar, büyüklerimizin yaşamına kolaylık, yüzlerine ise huzur dolu bir tebessüm katıyor.
+
+“Onlar bize emanet” anlayışıyla hizmet veren AYEM, yalnızca bir merkez değil; vefa, saygı ve bağlılığın kurumsal ifadesi olarak Arnavutköy Belediyesi’nin sosyal belediyecilik vizyonunu yansıtıyor.
+
+Her daim çınarlarımızın yanında olan Arnavutköy Belediyesi, büyüklerimizin hayatına değer katmaya devam ediyor.",
+      "imageUrl": "https://www.arnavutkoy.bel.tr/thumb.php?p=uploads/haberler/e2ac2ea5ff8b0d0.jpg&w=500",
+      "date": "2025-07-23"
     }
   ]
 }
